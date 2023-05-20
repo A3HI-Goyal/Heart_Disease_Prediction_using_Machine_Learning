@@ -45,17 +45,17 @@ Possible areas of future improvement for this project include:
 
 **METHODOLOGY**
 
-![](https://raw.githubusercontent.com/rameshavinash94/Cardiovascular-Detection-using-ECG-images/main/img/Architecture_Diagram.png)
+![](abhishek_minor/methodology.jpeg)
 
 **ROC GRAPH**
 
-![](https://raw.githubusercontent.com/rameshavinash94/Cardiovascular-Detection-using-ECG-images/main/img/demo.gif)
+![](abhishek_minor/combines_roc.jpeg)
 
 **ACCURACY**
 
-![](https://raw.githubusercontent.com/rameshavinash94/Cardiovascular-Detection-using-ECG-images/main/img/demo.gif)
+![](abhishek_minor/accuracy.jpeg)
 
 **USER INTERFACE**
 
-![](https://raw.githubusercontent.com/rameshavinash94/Cardiovascular-Detection-using-ECG-images/main/img/demo.gif)
+![](abhishek_minor/ui.jpeg)
 
